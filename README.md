@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Ericcson Networks Automation through Intive.
+- 🔭 I’m currently working for Orga AI.
 - 🌱 I’m currently learning Machine Learning and Math.
 - 👯 I’m looking to collaborate on everything.
 - 💬 Ask me about whatever.
