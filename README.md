@@ -1,15 +1,18 @@
-- 🔭 I’m currently working for Orga AI.
-- 🌱 I’m currently learning Machine Learning and Math.
-- 👯 I’m looking to collaborate on everything.
-- 💬 Ask me about whatever.
-- 🎓 [Master from UNED (Spain) Big Data and Data Science]
-- 🏅 Enjoy challenging myself in [ML competitions](https://www.kaggle.com/javierluengo)
+# Javier Luengo
+### ML & Backend Engineer | Applied AI Systems | Archaeology × Technology
 
-[Check out my website](https://fjavierluengo.es/) with my blog, publications and portfolio.
+🔭 ML & Backend Engineer at Orga AI  
+🚀 Building production-ready AI systems and scalable backend architectures  
+🧠 Focused on Applied Machine Learning, MLOps & Data Engineering  
+🏺 Background in Archaeology — bridging cultural heritage & computational systems  
+
+🎓 MSc Big Data & Data Science – UNED (Spain)  
+🏅 Kaggle competitor | Continuous technical refinement  
+
+🌍 Founder of ArqueoBytes – Applied AI for Archaeology
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-luengo/)](https://www.linkedin.com/in/javier-luengo/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/fraluegut)](https://github.com/fraluegut)
-[![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/FcoJavierLuengo)](https://twitter.com/FcoJavierLuengo)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/javierluengo)](https://www.kaggle.com/javierluengo)
 
 
