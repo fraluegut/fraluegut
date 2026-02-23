@@ -1,15 +1,17 @@
-# Javier Luengo
-### ML & Backend Engineer | Applied AI Systems | Archaeology × Technology
+## Javier Luengo
 
-🔭 ML & Backend Engineer at Orga AI  
-🚀 Building production-ready AI systems and scalable backend architectures  
-🧠 Focused on Applied Machine Learning, MLOps & Data Engineering  
-🏺 Background in Archaeology — bridging cultural heritage & computational systems  
+**ML & Backend Engineer | Applied AI Systems | Archaeology × Technology**
 
-🎓 MSc Big Data & Data Science – UNED (Spain)  
-🏅 Kaggle competitor | Continuous technical refinement  
+- 🔭 ML & Backend Engineer at Orga AI  
+- 🚀 Building production-ready AI systems and scalable backend architectures  
+- 🧠 Focused on Applied Machine Learning, MLOps & Data Engineering  
+- 🏺 Background in Archaeology — bridging cultural heritage & computational systems  
 
-🌍 Founder of ArqueoBytes – Applied AI for Archaeology
+- 📰 Founder & Editor of [ArqueoTimes](https://arqueotimes.es)  
+- 🌍 Founder of [ArqueoBytes](https://arqueobytes.es) — Applied AI for Archaeology  
+
+- 🎓 MSc Big Data & Data Science – UNED (Spain)  
+- 🏅 Kaggle competitor | Continuous technical refinement
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-luengo/)](https://www.linkedin.com/in/javier-luengo/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/fraluegut)](https://github.com/fraluegut)
