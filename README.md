@@ -1,19 +1,19 @@
-## Javier Luengo
+# Javier Luengo
 
-**ML & Backend Engineer | Applied AI Systems | Archaeology × Technology**
+**ML Engineer | Computer Vision & Applied AI | Archaeology × Technology**
 
-- 🔭 ML & Backend Engineer at Orga AI  
-- 🚀 Building production-ready AI systems and scalable backend architectures  
-- 🧠 Focused on Applied Machine Learning, MLOps & Data Engineering  
-- 🏺 Background in Archaeology — bridging cultural heritage & computational systems  
+### 🎤 Speaker at PyCon Spain 2026 (Barcelona)
+**[¿Qué hueso es? Zooarchaeological classification with Python, Machine Learning and synthetic data](https://2026.es.pycon.org/es/programa/#session-GPYECJ/)**
+📅 November 7 · *(talk in Spanish)*
 
-- 📰 Founder & Editor of [ArqueoTimes](https://arqueotimes.es)  
-- 🌍 Founder of [ArqueoBytes](https://arqueobytes.es) — Applied AI for Archaeology  
+---
 
-- 🎓 MSc Big Data & Data Science – UNED (Spain)  
-- 🏅 Kaggle competitor | Continuous technical refinement
+- 🧠 Applied Machine Learning, computer vision and MLOps
+- 🏺 Archaeologist by training: photogrammetry, 3D modeling and digital reconstruction
+- 🧪 Synthetic data, geometric information and multimodal models for data-scarce problems
+- 🌍 Founder of **ArqueoBytes**: applied AI for archaeology
+- 📰 Editor of **ArqueoTimes**: history outreach and Digital Humanities
+- 🎓 MSc in Big Data & Data Science, UNED (Spain)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-luengo/)](https://www.linkedin.com/in/javier-luengo/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/fraluegut)](https://github.com/fraluegut)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/javierluengo)](https://www.kaggle.com/javierluengo)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javier--luengo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-luengo/)
+[![Website](https://img.shields.io/badge/Web-javierluengo.es-black?logo=googlechrome&logoColor=white)](https://javierluengo.es)
