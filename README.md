@@ -11,8 +11,8 @@
 - 🧠 Applied Machine Learning, computer vision and MLOps
 - 🏺 Archaeologist by training: photogrammetry, 3D modeling and digital reconstruction
 - 🧪 Synthetic data, geometric information and multimodal models for data-scarce problems
-- 🌍 Founder of **ArqueoBytes**: applied AI for archaeology
-- 📰 Editor of **ArqueoTimes**: history outreach and Digital Humanities
+- 🌍 Founder of **[ArqueoBytes](https://arqueobytes.es)**: applied AI for archaeology
+- 📰 Editor of **[ArqueoTimes](https://arqueotimes.com)**: history outreach and Digital Humanities
 - 🎓 MSc in Big Data & Data Science, UNED (Spain)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-javier--luengo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-luengo/)
